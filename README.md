@@ -18,9 +18,9 @@ Standard JSON is verbose—curly braces, quotes, colons, and whitespace add up q
 |--------|-------------|---------|
 | **JSON** | Standard pretty-printed JSON | Native |
 | **Minified JSON** | JSON with whitespace removed | Native |
-| **TOON** | Tabular Object Oriented Notation - CSV-like with header metadata | [toon-lang](https://www.npmjs.com/package/toon-lang) CLI |
-| **TONL** | Similar to TOON with slightly different syntax | [tonl](https://www.npmjs.com/package/tonl) |
-| **tiny** | Minimal format: `name(fields\|row1\|row2...` with no closing paren | Custom script (included) |
+| **TOON** | Tabular Object Oriented Notation - CSV-like with header metadata | [toon-lang](https://www.npmjs.com/package/toon-lang) CLI, [GitHub](https://github.com/toon-format/toon) |
+| **TONL** | Similar to TOON with slightly different syntax | [tonl](https://www.npmjs.com/package/tonl), [GitHub](https://github.com/tonl-dev/tonl) |
+| **tiny** | Minimal format: `name(fields\|row1\|row2...` with no closing paren | [GitHub](https://github.com/asynkron/tiny), custom script included |
 
 ## Results
 
