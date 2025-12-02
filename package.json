@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@dqbd/tiktoken": "^1.0.22",
+    "tonl": "^2.4.1"
+  }
+}
